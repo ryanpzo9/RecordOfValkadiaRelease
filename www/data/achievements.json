@@ -1,0 +1,15 @@
+
+[
+    {
+        "id":"1", 
+        "title":"Simple Achievement", 
+        "description":"This achievement can only be completed via a direct script call or plugin command.", 
+        "icon":1, 
+        "secret":false, 
+        "trigger":{
+            "type":"variable", 
+            "variableId":100, 
+            "variableValue":100
+        }
+    }
+]	

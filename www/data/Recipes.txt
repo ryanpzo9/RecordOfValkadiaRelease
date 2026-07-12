@@ -1,0 +1,5007 @@
+<recipe1>
+ result:{type:"weapon", id:201, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:306, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:450
+ success:100
+ xp:10
+ known:false
+<recipe1>
+
+<recipe2>
+ result:{type:"weapon", id:202, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:307, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:450
+ success:100
+ xp:10
+ known:false
+<recipe2>
+
+<recipe3>
+ result:{type:"weapon", id:203, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:307, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:450
+ success:100
+ xp:10
+ known:false
+<recipe3>
+
+<recipe4>
+ result:{type:"weapon", id:204, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:306, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:450
+ success:100
+ xp:10
+ known:false
+<recipe4>
+
+<recipe5>
+ result:{type:"armor", id:301, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:309, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:400
+ success:100
+ xp:10
+ known:false
+<recipe5>
+
+<recipe6>
+ result:{type:"armor", id:302, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:308, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:400
+ success:100
+ xp:10
+ known:false
+<recipe6>
+
+<recipe7>
+ result:{type:"armor", id:303, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:308, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:400
+ success:100
+ xp:10
+ known:false
+<recipe7>
+
+<recipe8>
+ result:{type:"armor", id:304, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:309, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:400
+ success:100
+ xp:10
+ known:false
+<recipe8>
+
+<recipe9>
+ result:{type:"weapon", id:205, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:310, amount:5}
+  {type:"item", id:312, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:800
+ success:100
+ xp:12
+ known:false
+<recipe9>
+
+<recipe10>
+ result:{type:"weapon", id:206, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:315, amount:5}
+  {type:"item", id:316, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:800
+ success:100
+ xp:12
+ known:false
+<recipe10>
+
+<recipe11>
+ result:{type:"weapon", id:207, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:310, amount:5}
+  {type:"item", id:312, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:800
+ success:100
+ xp:12
+ known:false
+<recipe11>
+
+<recipe12>
+ result:{type:"weapon", id:208, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:315, amount:5}
+  {type:"item", id:316, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:800
+ success:100
+ xp:12
+ known:false
+<recipe12>
+
+<recipe13>
+ result:{type:"weapon", id:209, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:310, amount:5}
+  {type:"item", id:312, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:800
+ success:100
+ xp:12
+ known:false
+<recipe13>
+
+<recipe14>
+ result:{type:"weapon", id:210, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:315, amount:5}
+  {type:"item", id:316, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:800
+ success:100
+ xp:12
+ known:false
+<recipe14>
+
+<recipe15>
+ result:{type:"armor", id:305, amount:1}
+ <materials>
+  {type:"item", id:301, amount:6}
+  {type:"item", id:311, amount:5}
+  {type:"item", id:313, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:650
+ success:100
+ xp:12
+ known:false
+<recipe15>
+
+<recipe16>
+ result:{type:"armor", id:306, amount:1}
+ <materials>
+  {type:"item", id:301, amount:6}
+  {type:"item", id:311, amount:5}
+  {type:"item", id:313, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:650
+ success:100
+ xp:12
+ known:false
+<recipe16>
+
+<recipe17>
+ result:{type:"armor", id:307, amount:1}
+ <materials>
+  {type:"item", id:301, amount:6}
+  {type:"item", id:314, amount:5}
+  {type:"item", id:317, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:650
+ success:100
+ xp:12
+ known:false
+<recipe17>
+
+<recipe18>
+ result:{type:"armor", id:308, amount:1}
+ <materials>
+  {type:"item", id:301, amount:6}
+  {type:"item", id:314, amount:5}
+  {type:"item", id:317, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:650
+ success:100
+ xp:12
+ known:false
+<recipe18>
+
+<recipe19>
+ result:{type:"armor", id:309, amount:1}
+ <materials>
+  {type:"item", id:301, amount:2}
+  {type:"item", id:325, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe19>
+
+<recipe20>
+ result:{type:"armor", id:310, amount:1}
+ <materials>
+  {type:"item", id:318, amount:4}
+  {type:"item", id:320, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe20>
+
+<recipe21>
+ result:{type:"armor", id:311, amount:1}
+ <materials>
+  {type:"item", id:320, amount:4}
+  {type:"item", id:322, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe21>
+
+<recipe22>
+ result:{type:"armor", id:312, amount:1}
+ <materials>
+  {type:"item", id:318, amount:4}
+  {type:"item", id:322, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe22>
+
+<recipe23>
+ result:{type:"armor", id:313, amount:1}
+ <materials>
+  {type:"item", id:319, amount:4}
+  {type:"item", id:321, amount:4}
+  {type:"item", id:324, amount:1}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe23>
+
+<recipe24>
+ result:{type:"armor", id:314, amount:1}
+ <materials>
+  {type:"item", id:321, amount:4}
+  {type:"item", id:323, amount:4}
+  {type:"item", id:324, amount:1}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe24>
+
+<recipe25>
+ result:{type:"armor", id:315, amount:1}
+ <materials>
+  {type:"item", id:319, amount:4}
+  {type:"item", id:323, amount:4}
+  {type:"item", id:324, amount:1}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:600
+ success:100
+ xp:12
+ known:false
+<recipe25>
+
+<recipe26>
+ result:{type:"item", id:1032, amount:1}
+ <materials>
+  {type:"item", id:305, amount:10}
+  {type:"item", id:1005, amount:2}
+  {type:"item", id:336, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe26>
+
+<recipe27>
+ result:{type:"item", id:1034, amount:1}
+ <materials>
+  {type:"item", id:305, amount:10}
+  {type:"item", id:1003, amount:2}
+  {type:"item", id:1004, amount:2}
+  {type:"item", id:1019, amount:1}
+  {type:"item", id:330, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe27>
+
+<recipe28>
+ result:{type:"item", id:1035, amount:1}
+ <materials>
+  {type:"item", id:305, amount:10}
+  {type:"item", id:1001, amount:3}
+  {type:"item", id:1008, amount:2}
+  {type:"item", id:337, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe28>
+
+<recipe29>
+ result:{type:"weapon", id:211, amount:1}
+ <materials>
+  {type:"item", id:295, amount:1}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:307, amount:8}
+  {type:"item", id:326, amount:5}
+  {type:"item", id:339, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1300
+ success:100
+ xp:18
+ known:false
+<recipe29>
+
+<recipe30>
+ result:{type:"weapon", id:212, amount:1}
+ <materials>
+  {type:"item", id:295, amount:1}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:306, amount:8}
+  {type:"item", id:331, amount:5}
+  {type:"item", id:343, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1300
+ success:100
+ xp:18
+ known:false
+<recipe30>
+
+<recipe31>
+ result:{type:"weapon", id:213, amount:1}
+ <materials>
+  {type:"item", id:295, amount:1}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:307, amount:8}
+  {type:"item", id:326, amount:5}
+  {type:"item", id:343, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1300
+ success:100
+ xp:18
+ known:false
+<recipe31>
+
+<recipe32>
+ result:{type:"weapon", id:214, amount:1}
+ <materials>
+  {type:"item", id:295, amount:1}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:306, amount:8}
+  {type:"item", id:331, amount:5}
+  {type:"item", id:339, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1300
+ success:100
+ xp:18
+ known:false
+<recipe32>
+
+<recipe33>
+ result:{type:"weapon", id:215, amount:1}
+ <materials>
+  {type:"item", id:295, amount:1}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:306, amount:8}
+  {type:"item", id:339, amount:5}
+  {type:"item", id:343, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1300
+ success:100
+ xp:18
+ known:false
+<recipe33>
+
+<recipe34>
+ result:{type:"weapon", id:216, amount:1}
+ <materials>
+  {type:"item", id:295, amount:1}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:307, amount:8}
+  {type:"item", id:326, amount:5}
+  {type:"item", id:331, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1300
+ success:100
+ xp:18
+ known:false
+<recipe34>
+
+<recipe35>
+ result:{type:"armor", id:316, amount:1}
+ <materials>
+  {type:"item", id:296, amount:1}
+  {type:"item", id:302, amount:5}
+  {type:"item", id:309, amount:7}
+  {type:"item", id:327, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1000
+ success:100
+ xp:18
+ known:false
+<recipe35>
+
+<recipe36>
+ result:{type:"armor", id:317, amount:1}
+ <materials>
+  {type:"item", id:296, amount:1}
+  {type:"item", id:302, amount:5}
+  {type:"item", id:308, amount:7}
+  {type:"item", id:332, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1000
+ success:100
+ xp:18
+ known:false
+<recipe36>
+
+<recipe37>
+ result:{type:"armor", id:318, amount:1}
+ <materials>
+  {type:"item", id:296, amount:1}
+  {type:"item", id:302, amount:5}
+  {type:"item", id:309, amount:7}
+  {type:"item", id:340, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1000
+ success:100
+ xp:18
+ known:false
+<recipe37>
+
+<recipe38>
+ result:{type:"armor", id:319, amount:1}
+ <materials>
+  {type:"item", id:296, amount:1}
+  {type:"item", id:302, amount:5}
+  {type:"item", id:308, amount:7}
+  {type:"item", id:344, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1000
+ success:100
+ xp:18
+ known:false
+<recipe38>
+
+<recipe39>
+ result:{type:"armor", id:320, amount:1}
+ <materials>
+  {type:"item", id:297, amount:1}
+  {type:"item", id:328, amount:5}
+  {type:"item", id:333, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:900
+ success:100
+ xp:15
+ known:false
+<recipe39>
+
+<recipe40>
+ result:{type:"armor", id:321, amount:1}
+ <materials>
+  {type:"item", id:297, amount:1}
+  {type:"item", id:341, amount:5}
+  {type:"item", id:345, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:900
+ success:100
+ xp:15
+ known:false
+<recipe40>
+
+<recipe41>
+ result:{type:"armor", id:322, amount:1}
+ <materials>
+  {type:"item", id:297, amount:1}
+  {type:"item", id:333, amount:5}
+  {type:"item", id:341, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:900
+ success:100
+ xp:15
+ known:false
+<recipe41>
+
+<recipe42>
+ result:{type:"armor", id:323, amount:1}
+ <materials>
+  {type:"item", id:298, amount:1}
+  {type:"item", id:329, amount:5}
+  {type:"item", id:334, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:850
+ success:100
+ xp:15
+ known:false
+<recipe42>
+
+<recipe43>
+ result:{type:"armor", id:324, amount:1}
+ <materials>
+  {type:"item", id:298, amount:1}
+  {type:"item", id:334, amount:5}
+  {type:"item", id:342, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:850
+ success:100
+ xp:15
+ known:false
+<recipe43>
+
+<recipe44>
+ result:{type:"armor", id:325, amount:1}
+ <materials>
+  {type:"item", id:298, amount:1}
+  {type:"item", id:342, amount:5}
+  {type:"item", id:346, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:850
+ success:100
+ xp:15
+ known:false
+<recipe44>
+
+<recipe45>
+ result:{type:"armor", id:326, amount:1}
+ <materials>
+  {type:"item", id:298, amount:1}
+  {type:"item", id:329, amount:5}
+  {type:"item", id:346, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:850
+ success:100
+ xp:15
+ known:false
+<recipe45>
+
+<recipe46>
+ result:{type:"armor", id:327, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"item", id:335, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:850
+ success:100
+ xp:15
+ known:false
+<recipe46>
+
+<recipe47>
+ result:{type:"item", id:1036, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1037, amount:4}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:20
+ known:false
+<recipe47>
+
+<recipe48>
+ result:{type:"item", id:1046, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1044, amount:2}
+  {type:"item", id:1011, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:20
+ known:false
+<recipe48>
+
+<recipe49>
+ result:{type:"weapon", id:225, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:217, amount:1}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe49>
+
+<recipe50>
+ result:{type:"weapon", id:226, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe50>
+
+<recipe51>
+ result:{type:"weapon", id:227, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe51>
+
+<recipe52>
+ result:{type:"weapon", id:228, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:220, amount:1}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe52>
+
+<recipe53>
+ result:{type:"weapon", id:229, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe53>
+
+<recipe54>
+ result:{type:"weapon", id:230, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:222, amount:1}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe54>
+
+<recipe55>
+ result:{type:"weapon", id:231, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe55>
+
+<recipe56>
+ result:{type:"weapon", id:232, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"item", id:348, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1700
+ success:100
+ xp:22
+ known:false
+<recipe56>
+
+<recipe57>
+ result:{type:"armor", id:341, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:350, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:17
+ known:false
+<recipe57>
+
+<recipe58>
+ result:{type:"armor", id:342, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:329, amount:1}
+  {type:"item", id:350, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:17
+ known:false
+<recipe58>
+
+<recipe59>
+ result:{type:"armor", id:343, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:331, amount:1}
+  {type:"item", id:350, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:17
+ known:false
+<recipe59>
+
+<recipe60>
+ result:{type:"armor", id:344, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:330, amount:1}
+  {type:"item", id:350, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:17
+ known:false
+<recipe60>
+
+<recipe61>
+ result:{type:"armor", id:345, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:332, amount:1}
+  {type:"item", id:350, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:17
+ known:false
+<recipe61>
+
+<recipe62>
+ result:{type:"armor", id:346, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:7}
+  {type:"item", id:350, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:17
+ known:false
+<recipe62>
+
+<recipe63>
+ result:{type:"armor", id:347, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:334, amount:1}
+  {type:"item", id:351, amount:6}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe63>
+
+<recipe64>
+ result:{type:"armor", id:348, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:335, amount:1}
+  {type:"item", id:351, amount:6}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe64>
+
+<recipe65>
+ result:{type:"armor", id:349, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:336, amount:1}
+  {type:"item", id:351, amount:6}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe65>
+
+<recipe66>
+ result:{type:"armor", id:350, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:337, amount:1}
+  {type:"item", id:351, amount:6}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe66>
+
+<recipe67>
+ result:{type:"armor", id:351, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:338, amount:1}
+  {type:"item", id:351, amount:6}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe67>
+
+<recipe68>
+ result:{type:"armor", id:352, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:339, amount:1}
+  {type:"item", id:351, amount:6}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe68>
+
+<recipe69>
+ result:{type:"armor", id:353, amount:1}
+ <materials>
+  {type:"item", id:299, amount:2}
+  {type:"armor", id:340, amount:1}
+  {type:"item", id:352, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe69>
+
+<recipe70>
+ result:{type:"armor", id:354, amount:1}
+ <materials>
+  {type:"item", id:299, amount:2}
+  {type:"armor", id:340, amount:2}
+  {type:"item", id:352, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:17
+ known:false
+<recipe70>
+
+<recipe71>
+ result:{type:"item", id:1049, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1013, amount:2}
+  {type:"item", id:1027, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:20
+ known:false
+<recipe71>
+
+<recipe72>
+ result:{type:"item", id:1050, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1002, amount:2}
+  {type:"item", id:1043, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe72>
+
+<recipe73>
+ result:{type:"item", id:1051, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1011, amount:2}
+  {type:"item", id:1029, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe73>
+
+<recipe74>
+ result:{type:"item", id:1052, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1023, amount:2}
+  {type:"item", id:1042, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe74>
+
+<recipe75>
+ result:{type:"item", id:1053, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1025, amount:2}
+  {type:"item", id:1038, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe75>
+
+<recipe76>
+ result:{type:"item", id:1054, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1014, amount:2}
+  {type:"item", id:1020, amount:2}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe76>
+
+<recipe77>
+ result:{type:"item", id:1055, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1040, amount:4}
+  {type:"item", id:347, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:1500
+ success:100
+ xp:15
+ known:false
+<recipe77>
+
+<recipe78>
+ result:{type:"weapon", id:233, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:354, amount:7}
+  {type:"item", id:366, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe78>
+
+<recipe79>
+ result:{type:"weapon", id:234, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:354, amount:7}
+  {type:"item", id:366, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe79>
+
+<recipe80>
+ result:{type:"weapon", id:235, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:356, amount:7}
+  {type:"item", id:361, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe80>
+
+<recipe81>
+ result:{type:"weapon", id:236, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:356, amount:7}
+  {type:"item", id:361, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe81>
+
+<recipe82>
+ result:{type:"weapon", id:237, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:359, amount:7}
+  {type:"item", id:354, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe82>
+
+<recipe83>
+ result:{type:"weapon", id:238, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:359, amount:7}
+  {type:"item", id:354, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe83>
+
+<recipe84>
+ result:{type:"weapon", id:239, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:361, amount:7}
+  {type:"item", id:356, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe84>
+
+<recipe85>
+ result:{type:"weapon", id:240, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:361, amount:7}
+  {type:"item", id:356, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe85>
+
+<recipe86>
+ result:{type:"weapon", id:241, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:366, amount:7}
+  {type:"item", id:359, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe86>
+
+<recipe87>
+ result:{type:"weapon", id:242, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:366, amount:7}
+  {type:"item", id:359, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe87>
+
+<recipe88>
+ result:{type:"weapon", id:243, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:354, amount:7}
+  {type:"item", id:361, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe88>
+
+<recipe89>
+ result:{type:"weapon", id:244, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:354, amount:7}
+  {type:"item", id:361, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:1500
+ success:100
+ xp:25
+ known:false
+<recipe89>
+
+<recipe90>
+ result:{type:"weapon", id:245, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:233, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe90>
+
+<recipe91>
+ result:{type:"weapon", id:246, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:234, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe91>
+
+<recipe92>
+ result:{type:"weapon", id:247, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:235, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe92>
+
+<recipe93>
+ result:{type:"weapon", id:248, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:236, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe93>
+
+<recipe94>
+ result:{type:"weapon", id:249, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:237, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe94>
+
+<recipe95>
+ result:{type:"weapon", id:250, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:238, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe95>
+
+<recipe96>
+ result:{type:"weapon", id:251, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:239, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe96>
+
+<recipe97>
+ result:{type:"weapon", id:252, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:240, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe97>
+
+<recipe98>
+ result:{type:"weapon", id:253, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:241, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe98>
+
+<recipe99>
+ result:{type:"weapon", id:254, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:242, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe99>
+
+<recipe100>
+ result:{type:"weapon", id:255, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:243, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe100>
+
+<recipe101>
+ result:{type:"weapon", id:256, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:244, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:363, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe101>
+
+<recipe102>
+ result:{type:"armor", id:355, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:355, amount:5}
+  {type:"item", id:357, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:20
+ known:false
+<recipe102>
+
+<recipe103>
+ result:{type:"armor", id:356, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:355, amount:5}
+  {type:"item", id:357, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:20
+ known:false
+<recipe103>
+
+<recipe104>
+ result:{type:"armor", id:357, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:357, amount:5}
+  {type:"item", id:360, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:20
+ known:false
+<recipe104>
+
+<recipe105>
+ result:{type:"armor", id:358, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:357, amount:5}
+  {type:"item", id:360, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:20
+ known:false
+<recipe105>
+
+<recipe106>
+ result:{type:"armor", id:359, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:360, amount:5}
+  {type:"item", id:366, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:20
+ known:false
+<recipe106>
+
+<recipe107>
+ result:{type:"armor", id:360, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:360, amount:5}
+  {type:"item", id:366, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:20
+ known:false
+<recipe107>
+
+<recipe108>
+ result:{type:"armor", id:361, amount:1}
+ <materials>
+  {type:"item", id:355, amount:4}
+  {type:"item", id:366, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe108>
+
+<recipe109>
+ result:{type:"armor", id:362, amount:1}
+ <materials>
+  {type:"item", id:357, amount:4}
+  {type:"item", id:366, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe109>
+
+<recipe110>
+ result:{type:"armor", id:363, amount:1}
+ <materials>
+  {type:"item", id:360, amount:4}
+  {type:"item", id:366, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe110>
+
+<recipe111>
+ result:{type:"armor", id:364, amount:1}
+ <materials>
+  {type:"item", id:358, amount:7}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe111>
+
+<recipe112>
+ result:{type:"armor", id:365, amount:1}
+ <materials>
+  {type:"item", id:362, amount:7}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe112>
+
+<recipe113>
+ result:{type:"armor", id:366, amount:1}
+ <materials>
+  {type:"item", id:366, amount:7}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe113>
+
+<recipe114>
+ result:{type:"armor", id:367, amount:1}
+ <materials>
+  {type:"item", id:301, amount:3}
+  {type:"item", id:358, amount:4}
+  {type:"item", id:362, amount:2}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe114>
+
+<recipe115>
+ result:{type:"armor", id:368, amount:1}
+ <materials>
+  {type:"item", id:301, amount:3}
+  {type:"item", id:362, amount:4}
+  {type:"item", id:366, amount:2}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1200
+ success:100
+ xp:20
+ known:false
+<recipe115>
+
+<recipe116>
+ result:{type:"armor", id:369, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:355, amount:1}
+  {type:"item", id:364, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:24
+ known:false
+<recipe116>
+
+<recipe117>
+ result:{type:"armor", id:370, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:356, amount:1}
+  {type:"item", id:364, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:24
+ known:false
+<recipe117>
+
+<recipe118>
+ result:{type:"armor", id:371, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:357, amount:1}
+  {type:"item", id:364, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:24
+ known:false
+<recipe118>
+
+<recipe119>
+ result:{type:"armor", id:372, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:358, amount:1}
+  {type:"item", id:364, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:24
+ known:false
+<recipe119>
+
+<recipe120>
+ result:{type:"armor", id:373, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:359, amount:1}
+  {type:"item", id:364, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:24
+ known:false
+<recipe120>
+
+<recipe121>
+ result:{type:"armor", id:374, amount:1}
+ <materials>
+  {type:"item", id:296, amount:2}
+  {type:"item", id:302, amount:7}
+  {type:"armor", id:360, amount:1}
+  {type:"item", id:364, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:24
+ known:false
+<recipe121>
+
+<recipe122>
+ result:{type:"armor", id:375, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:361, amount:1}
+  {type:"item", id:364, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe122>
+
+<recipe123>
+ result:{type:"armor", id:376, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:362, amount:1}
+  {type:"item", id:364, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe123>
+
+<recipe124>
+ result:{type:"armor", id:377, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:363, amount:1}
+  {type:"item", id:364, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe124>
+
+<recipe125>
+ result:{type:"armor", id:378, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:364, amount:1}
+  {type:"item", id:365, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe125>
+
+<recipe126>
+ result:{type:"armor", id:379, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:365, amount:1}
+  {type:"item", id:365, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe126>
+
+<recipe127>
+ result:{type:"armor", id:380, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:366, amount:1}
+  {type:"item", id:365, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe127>
+
+<recipe128>
+ result:{type:"armor", id:381, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:367, amount:1}
+  {type:"item", id:365, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe128>
+
+<recipe129>
+ result:{type:"armor", id:382, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:367, amount:1}
+  {type:"armor", id:368, amount:1}
+  {type:"item", id:365, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1500
+ success:100
+ xp:24
+ known:false
+<recipe129>
+
+<recipe130>
+ result:{type:"item", id:1066, amount:1}
+ <materials>
+  {type:"item", id:305, amount:20}
+  {type:"item", id:1005, amount:4}
+  {type:"item", id:1057, amount:1}
+  {type:"item", id:1032, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe130>
+
+<recipe131>
+ result:{type:"item", id:1067, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1043, amount:2}
+  {type:"item", id:1058, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe131>
+
+<recipe132>
+ result:{type:"item", id:1068, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1006, amount:3}
+  {type:"item", id:1059, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe132>
+
+<recipe133>
+ result:{type:"item", id:1069, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1029, amount:2}
+  {type:"item", id:1060, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe133>
+
+<recipe134>
+ result:{type:"item", id:1070, amount:1}
+ <materials>
+  {type:"item", id:305, amount:20}
+  {type:"item", id:1034, amount:2}
+  {type:"item", id:1062, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe134>
+
+<recipe135>
+ result:{type:"item", id:1071, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1004, amount:4}
+  {type:"item", id:1007, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe135>
+
+<recipe136>
+ result:{type:"item", id:1072, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1012, amount:3}
+  {type:"item", id:1061, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe136>
+
+<recipe137>
+ result:{type:"item", id:1073, amount:1}
+ <materials>
+  {type:"item", id:305, amount:20}
+  {type:"item", id:1026, amount:3}
+  {type:"item", id:1054, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe137>
+
+<recipe138>
+ result:{type:"item", id:1074, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1016, amount:4}
+  {type:"item", id:1018, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe138>
+
+<recipe139>
+ result:{type:"item", id:1075, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1021, amount:3}
+  {type:"item", id:1063, amount:2}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe139>
+
+<recipe140>
+ result:{type:"item", id:1076, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1022, amount:3}
+  {type:"item", id:1029, amount:3}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe140>
+
+<recipe141>
+ result:{type:"item", id:1077, amount:1}
+ <materials>
+  {type:"item", id:305, amount:20}
+  {type:"item", id:1046, amount:1}
+  {type:"item", id:1065, amount:4}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe141>
+
+<recipe142>
+ result:{type:"item", id:1078, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1017, amount:3}
+  {type:"item", id:1039, amount:3}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe142>
+
+<recipe143>
+ result:{type:"item", id:1079, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1015, amount:4}
+  {type:"item", id:353, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2000
+ success:100
+ xp:25
+ known:false
+<recipe143>
+
+<recipe144>
+ result:{type:"weapon", id:257, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:367, amount:7}
+  {type:"item", id:368, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe144>
+
+<recipe145>
+ result:{type:"weapon", id:258, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:367, amount:7}
+  {type:"item", id:368, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe145>
+
+<recipe146>
+ result:{type:"weapon", id:259, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:369, amount:7}
+  {type:"item", id:370, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe146>
+
+<recipe147>
+ result:{type:"weapon", id:260, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:369, amount:7}
+  {type:"item", id:370, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe147>
+
+<recipe148>
+ result:{type:"weapon", id:261, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:371, amount:7}
+  {type:"item", id:372, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe148>
+
+<recipe149>
+ result:{type:"weapon", id:262, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:371, amount:7}
+  {type:"item", id:372, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe149>
+
+<recipe150>
+ result:{type:"weapon", id:263, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:373, amount:7}
+  {type:"item", id:374, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe150>
+
+<recipe151>
+ result:{type:"weapon", id:264, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:373, amount:7}
+  {type:"item", id:374, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe151>
+
+<recipe152>
+ result:{type:"weapon", id:265, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:369, amount:7}
+  {type:"item", id:367, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe152>
+
+<recipe153>
+ result:{type:"weapon", id:266, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:369, amount:7}
+  {type:"item", id:367, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe153>
+
+<recipe154>
+ result:{type:"weapon", id:267, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:374, amount:7}
+  {type:"item", id:371, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe154>
+
+<recipe155>
+ result:{type:"weapon", id:268, amount:1}
+ <materials>
+  {type:"item", id:301, amount:15}
+  {type:"item", id:374, amount:7}
+  {type:"item", id:371, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe155>
+
+<recipe156>
+ result:{type:"weapon", id:269, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:257, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe156>
+
+<recipe157>
+ result:{type:"weapon", id:270, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:258, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe157>
+
+<recipe158>
+ result:{type:"weapon", id:271, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:259, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe158>
+
+<recipe159>
+ result:{type:"weapon", id:272, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:260, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe159>
+
+<recipe160>
+ result:{type:"weapon", id:273, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:261, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe160>
+
+<recipe161>
+ result:{type:"weapon", id:274, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:262, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe161>
+
+<recipe162>
+ result:{type:"weapon", id:275, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:263, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe162>
+
+<recipe163>
+ result:{type:"weapon", id:276, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:264, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe163>
+
+<recipe164>
+ result:{type:"weapon", id:277, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:265, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe164>
+
+<recipe165>
+ result:{type:"weapon", id:278, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:266, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe165>
+
+<recipe166>
+ result:{type:"weapon", id:279, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:267, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe166>
+
+<recipe167>
+ result:{type:"weapon", id:280, amount:1}
+ <materials>
+  {type:"item", id:295, amount:2}
+  {type:"weapon", id:268, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:375, amount:5}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe167>
+
+<recipe168>
+ result:{type:"item", id:1087, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1082, amount:2}
+  {type:"item", id:1016, amount:2}
+  {type:"item", id:378, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe168>
+
+<recipe169>
+ result:{type:"item", id:1088, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1019, amount:2}
+  {type:"item", id:1084, amount:2}
+  {type:"item", id:378, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe169>
+
+<recipe170>
+ result:{type:"item", id:1089, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1017, amount:2}
+  {type:"item", id:1086, amount:2}
+  {type:"item", id:378, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe170>
+
+<recipe171>
+ result:{type:"item", id:1090, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1028, amount:2}
+  {type:"item", id:1085, amount:2}
+  {type:"item", id:378, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe171>
+
+<recipe172>
+ result:{type:"item", id:1091, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1012, amount:2}
+  {type:"item", id:1081, amount:2}
+  {type:"item", id:378, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe172>
+
+<recipe173>
+ result:{type:"item", id:1092, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1059, amount:2}
+  {type:"item", id:1083, amount:2}
+  {type:"item", id:378, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe173>
+
+<recipe174>
+ result:{type:"item", id:1093, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1013, amount:5}
+  {type:"item", id:1074, amount:2}
+  {type:"item", id:378, amount:10}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe174>
+
+<recipe175>
+ result:{type:"item", id:1094, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1034, amount:2}
+  {type:"item", id:1088, amount:2}
+  {type:"item", id:378, amount:10}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe175>
+
+<recipe176>
+ result:{type:"item", id:1095, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1023, amount:3}
+  {type:"item", id:1075, amount:2}
+  {type:"item", id:378, amount:10}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe176>
+
+<recipe177>
+ result:{type:"item", id:1096, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1032, amount:3}
+  {type:"item", id:1087, amount:2}
+  {type:"item", id:378, amount:10}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe177>
+
+<recipe178>
+ result:{type:"item", id:1097, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1046, amount:2}
+  {type:"item", id:1051, amount:2}
+  {type:"item", id:378, amount:10}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe178>
+
+<recipe179>
+ result:{type:"item", id:1098, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1014, amount:3}
+  {type:"item", id:1035, amount:2}
+  {type:"item", id:378, amount:10}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe179>
+
+<recipe180>
+ result:{type:"armor", id:383, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:367, amount:5}
+  {type:"item", id:368, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe180>
+
+<recipe181>
+ result:{type:"armor", id:384, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:367, amount:5}
+  {type:"item", id:368, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe181>
+
+<recipe182>
+ result:{type:"armor", id:385, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:369, amount:5}
+  {type:"item", id:370, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe182>
+
+<recipe183>
+ result:{type:"armor", id:386, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:369, amount:5}
+  {type:"item", id:370, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe183>
+
+<recipe184>
+ result:{type:"armor", id:387, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:371, amount:5}
+  {type:"item", id:372, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe184>
+
+<recipe185>
+ result:{type:"armor", id:388, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:371, amount:5}
+  {type:"item", id:372, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe185>
+
+<recipe186>
+ result:{type:"armor", id:389, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:373, amount:3}
+  {type:"item", id:374, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe186>
+
+<recipe187>
+ result:{type:"armor", id:390, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:373, amount:3}
+  {type:"item", id:374, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe187>
+
+<recipe188>
+ result:{type:"armor", id:391, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:369, amount:3}
+  {type:"item", id:367, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe188>
+
+<recipe189>
+ result:{type:"armor", id:392, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:369, amount:3}
+  {type:"item", id:367, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe189>
+
+<recipe190>
+ result:{type:"armor", id:393, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:374, amount:3}
+  {type:"item", id:371, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe190>
+
+<recipe191>
+ result:{type:"armor", id:394, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:374, amount:3}
+  {type:"item", id:371, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe191>
+
+<recipe192>
+ result:{type:"armor", id:395, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:372, amount:3}
+  {type:"item", id:373, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe192>
+
+<recipe193>
+ result:{type:"armor", id:396, amount:1}
+ <materials>
+  {type:"item", id:301, amount:5}
+  {type:"item", id:372, amount:3}
+  {type:"item", id:373, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:1800
+ success:100
+ xp:28
+ known:false
+<recipe193>
+
+<recipe194>
+ result:{type:"armor", id:397, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:8}
+  {type:"armor", id:383, amount:1}
+  {type:"item", id:376, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe194>
+
+<recipe195>
+ result:{type:"armor", id:398, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:8}
+  {type:"armor", id:384, amount:1}
+  {type:"item", id:376, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe195>
+
+<recipe196>
+ result:{type:"armor", id:399, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:8}
+  {type:"armor", id:386, amount:1}
+  {type:"item", id:376, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe196>
+
+<recipe197>
+ result:{type:"armor", id:400, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:8}
+  {type:"armor", id:385, amount:1}
+  {type:"item", id:376, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe197>
+
+<recipe198>
+ result:{type:"armor", id:401, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:8}
+  {type:"armor", id:387, amount:1}
+  {type:"item", id:376, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe198>
+
+<recipe199>
+ result:{type:"armor", id:402, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:8}
+  {type:"armor", id:388, amount:1}
+  {type:"item", id:376, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe199>
+
+<recipe200>
+ result:{type:"armor", id:403, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:389, amount:1}
+  {type:"item", id:376, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe200>
+
+<recipe201>
+ result:{type:"armor", id:404, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:390, amount:1}
+  {type:"item", id:376, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe201>
+
+<recipe202>
+ result:{type:"armor", id:405, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:391, amount:1}
+  {type:"item", id:376, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe202>
+
+<recipe203>
+ result:{type:"armor", id:406, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:392, amount:1}
+  {type:"item", id:377, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe203>
+
+<recipe204>
+ result:{type:"armor", id:407, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:393, amount:1}
+  {type:"item", id:377, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe204>
+
+<recipe205>
+ result:{type:"armor", id:408, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:394, amount:1}
+  {type:"item", id:377, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe205>
+
+<recipe206>
+ result:{type:"armor", id:409, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:395, amount:1}
+  {type:"item", id:377, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe206>
+
+<recipe207>
+ result:{type:"armor", id:410, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:395, amount:1}
+  {type:"armor", id:396, amount:1}
+  {type:"item", id:377, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2000
+ success:100
+ xp:28
+ known:false
+<recipe207>
+
+<recipe208>
+ result:{type:"weapon", id:281, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:379, amount:5}
+  {type:"item", id:384, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe208>
+
+<recipe209>
+ result:{type:"weapon", id:282, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:379, amount:5}
+  {type:"item", id:384, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe209>
+
+<recipe210>
+ result:{type:"weapon", id:283, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:385, amount:5}
+  {type:"item", id:386, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe210>
+
+<recipe211>
+ result:{type:"weapon", id:284, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:385, amount:5}
+  {type:"item", id:386, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe211>
+
+<recipe212>
+ result:{type:"weapon", id:285, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:387, amount:5}
+  {type:"item", id:388, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe212>
+
+<recipe213>
+ result:{type:"weapon", id:286, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:387, amount:5}
+  {type:"item", id:388, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe213>
+
+<recipe214>
+ result:{type:"weapon", id:287, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:389, amount:5}
+  {type:"item", id:390, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe214>
+
+<recipe215>
+ result:{type:"weapon", id:288, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:389, amount:5}
+  {type:"item", id:390, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe215>
+
+<recipe216>
+ result:{type:"weapon", id:289, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:384, amount:5}
+  {type:"item", id:387, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe216>
+
+<recipe217>
+ result:{type:"weapon", id:290, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:384, amount:5}
+  {type:"item", id:387, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe217>
+
+<recipe218>
+ result:{type:"weapon", id:291, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:386, amount:5}
+  {type:"item", id:379, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe218>
+
+<recipe219>
+ result:{type:"weapon", id:292, amount:1}
+ <materials>
+  {type:"item", id:301, amount:17}
+  {type:"item", id:386, amount:5}
+  {type:"item", id:379, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe219>
+
+<recipe220>
+ result:{type:"weapon", id:293, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:281, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe220>
+
+<recipe221>
+ result:{type:"weapon", id:294, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:282, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe221>
+
+<recipe222>
+ result:{type:"weapon", id:295, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:283, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe222>
+
+<recipe223>
+ result:{type:"weapon", id:296, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:284, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe223>
+
+<recipe224>
+ result:{type:"weapon", id:297, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:285, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe224>
+
+<recipe225>
+ result:{type:"weapon", id:298, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:286, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe225>
+
+<recipe226>
+ result:{type:"weapon", id:299, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:287, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe226>
+
+<recipe227>
+ result:{type:"weapon", id:300, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:288, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe227>
+
+<recipe228>
+ result:{type:"weapon", id:301, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:289, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe228>
+
+<recipe229>
+ result:{type:"weapon", id:302, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:290, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe229>
+
+<recipe230>
+ result:{type:"weapon", id:303, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:291, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe230>
+
+<recipe231>
+ result:{type:"weapon", id:304, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:292, amount:1}
+  {type:"item", id:302, amount:12}
+  {type:"item", id:380, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5500
+ success:100
+ xp:28
+ known:false
+<recipe231>
+
+<recipe232>
+ result:{type:"armor", id:411, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:379, amount:5}
+  {type:"item", id:384, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe232>
+
+<recipe233>
+ result:{type:"armor", id:412, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:379, amount:5}
+  {type:"item", id:384, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe233>
+
+<recipe234>
+ result:{type:"armor", id:413, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:385, amount:5}
+  {type:"item", id:386, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe234>
+
+<recipe235>
+ result:{type:"armor", id:414, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:385, amount:5}
+  {type:"item", id:386, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe235>
+
+<recipe236>
+ result:{type:"armor", id:415, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:387, amount:5}
+  {type:"item", id:388, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe236>
+
+<recipe237>
+ result:{type:"armor", id:416, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:387, amount:5}
+  {type:"item", id:388, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe237>
+
+<recipe238>
+ result:{type:"armor", id:417, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:389, amount:3}
+  {type:"item", id:390, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe238>
+
+<recipe239>
+ result:{type:"armor", id:418, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:389, amount:3}
+  {type:"item", id:390, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe239>
+
+<recipe240>
+ result:{type:"armor", id:419, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:384, amount:3}
+  {type:"item", id:387, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe240>
+
+<recipe241>
+ result:{type:"armor", id:420, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:384, amount:3}
+  {type:"item", id:387, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe241>
+
+<recipe242>
+ result:{type:"armor", id:421, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:386, amount:3}
+  {type:"item", id:379, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe242>
+
+<recipe243>
+ result:{type:"armor", id:422, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:386, amount:3}
+  {type:"item", id:379, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe243>
+
+<recipe244>
+ result:{type:"armor", id:423, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:384, amount:3}
+  {type:"item", id:387, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe244>
+
+<recipe245>
+ result:{type:"armor", id:424, amount:1}
+ <materials>
+  {type:"item", id:301, amount:7}
+  {type:"item", id:385, amount:3}
+  {type:"item", id:390, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:2500
+ success:100
+ xp:28
+ known:false
+<recipe245>
+
+<recipe246>
+ result:{type:"armor", id:425, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:411, amount:1}
+  {type:"item", id:381, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3500
+ success:100
+ xp:28
+ known:false
+<recipe246>
+
+<recipe247>
+ result:{type:"armor", id:426, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:412, amount:1}
+  {type:"item", id:381, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3500
+ success:100
+ xp:28
+ known:false
+<recipe247>
+
+<recipe248>
+ result:{type:"armor", id:427, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:413, amount:1}
+  {type:"item", id:381, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3500
+ success:100
+ xp:28
+ known:false
+<recipe248>
+
+<recipe249>
+ result:{type:"armor", id:428, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:414, amount:1}
+  {type:"item", id:381, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3500
+ success:100
+ xp:28
+ known:false
+<recipe249>
+
+<recipe250>
+ result:{type:"armor", id:429, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:415, amount:1}
+  {type:"item", id:381, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3500
+ success:100
+ xp:28
+ known:false
+<recipe250>
+
+<recipe251>
+ result:{type:"armor", id:430, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:416, amount:1}
+  {type:"item", id:381, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3500
+ success:100
+ xp:28
+ known:false
+<recipe251>
+
+<recipe252>
+ result:{type:"armor", id:431, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:417, amount:1}
+  {type:"item", id:381, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe252>
+
+<recipe253>
+ result:{type:"armor", id:432, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:418, amount:1}
+  {type:"item", id:381, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe253>
+
+<recipe254>
+ result:{type:"armor", id:433, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:419, amount:1}
+  {type:"item", id:381, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe254>
+
+<recipe255>
+ result:{type:"armor", id:434, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:420, amount:1}
+  {type:"item", id:382, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe255>
+
+<recipe256>
+ result:{type:"armor", id:435, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:421, amount:1}
+  {type:"item", id:382, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe256>
+
+<recipe257>
+ result:{type:"armor", id:436, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:422, amount:1}
+  {type:"item", id:382, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe257>
+
+<recipe258>
+ result:{type:"armor", id:437, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:423, amount:1}
+  {type:"item", id:382, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe258>
+
+<recipe259>
+ result:{type:"armor", id:438, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:423, amount:1}
+  {type:"armor", id:424, amount:1}
+  {type:"item", id:382, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe259>
+
+<recipe260>
+ result:{type:"item", id:1118, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1109, amount:2}
+  {type:"item", id:1043, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe260>
+
+<recipe261>
+ result:{type:"item", id:1119, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1110, amount:2}
+  {type:"item", id:1016, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe261>
+
+<recipe262>
+ result:{type:"item", id:1120, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1111, amount:2}
+  {type:"item", id:1058, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe262>
+
+<recipe263>
+ result:{type:"item", id:1121, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1113, amount:2}
+  {type:"item", id:1045, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe263>
+
+<recipe264>
+ result:{type:"item", id:1122, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1114, amount:2}
+  {type:"item", id:1014, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe264>
+
+<recipe265>
+ result:{type:"item", id:1123, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1112, amount:2}
+  {type:"item", id:1041, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe265>
+
+<recipe266>
+ result:{type:"item", id:1124, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1115, amount:2}
+  {type:"item", id:1061, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe266>
+
+<recipe267>
+ result:{type:"item", id:1125, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1116, amount:2}
+  {type:"item", id:1021, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe267>
+
+<recipe268>
+ result:{type:"item", id:1126, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1117, amount:2}
+  {type:"item", id:1030, amount:2}
+  {type:"item", id:383, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:3000
+ success:100
+ xp:28
+ known:false
+<recipe268>
+
+<recipe269>
+ result:{type:"item", id:1127, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1118, amount:2}
+  {type:"item", id:1067, amount:2}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe269>
+
+<recipe270>
+ result:{type:"item", id:1128, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1119, amount:2}
+  {type:"item", id:1087, amount:2}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe270>
+
+<recipe271>
+ result:{type:"item", id:1129, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1120, amount:2}
+  {type:"item", id:1063, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe271>
+
+<recipe272>
+ result:{type:"item", id:1130, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1121, amount:2}
+  {type:"item", id:1019, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe272>
+
+<recipe273>
+ result:{type:"item", id:1131, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1122, amount:2}
+  {type:"item", id:1039, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe273>
+
+<recipe274>
+ result:{type:"item", id:1132, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1123, amount:2}
+  {type:"item", id:1011, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe274>
+
+<recipe275>
+ result:{type:"item", id:1133, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1124, amount:2}
+  {type:"item", id:1010, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe275>
+
+<recipe276>
+ result:{type:"item", id:1134, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1125, amount:2}
+  {type:"item", id:1012, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe276>
+
+<recipe277>
+ result:{type:"item", id:1135, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1126, amount:2}
+  {type:"item", id:1017, amount:4}
+  {type:"item", id:383, amount:7}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4500
+ success:100
+ xp:28
+ known:false
+<recipe277>
+
+<recipe278>
+ result:{type:"item", id:1149, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1140, amount:2}
+  {type:"item", id:1037, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe278>
+
+<recipe279>
+ result:{type:"item", id:1150, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1141, amount:2}
+  {type:"item", id:1040, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe279>
+
+<recipe280>
+ result:{type:"item", id:1151, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1142, amount:2}
+  {type:"item", id:1027, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe280>
+
+<recipe281>
+ result:{type:"item", id:1152, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1143, amount:2}
+  {type:"item", id:1022, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe281>
+
+<recipe282>
+ result:{type:"item", id:1153, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1144, amount:2}
+  {type:"item", id:1083, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe282>
+
+<recipe283>
+ result:{type:"item", id:1154, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1145, amount:2}
+  {type:"item", id:1112, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe283>
+
+<recipe284>
+ result:{type:"item", id:1155, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1146, amount:2}
+  {type:"item", id:1021, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe284>
+
+<recipe285>
+ result:{type:"item", id:1156, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1147, amount:2}
+  {type:"item", id:1023, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe285>
+
+<recipe286>
+ result:{type:"item", id:1157, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1148, amount:2}
+  {type:"item", id:1015, amount:2}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:4000
+ success:100
+ xp:28
+ known:false
+<recipe286>
+
+<recipe287>
+ result:{type:"item", id:1158, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1149, amount:2}
+  {type:"item", id:1057, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe287>
+
+<recipe288>
+ result:{type:"item", id:1159, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1150, amount:2}
+  {type:"item", id:1063, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe288>
+
+<recipe289>
+ result:{type:"item", id:1160, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1151, amount:2}
+  {type:"item", id:1085, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe289>
+
+<recipe290>
+ result:{type:"item", id:1161, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1152, amount:2}
+  {type:"item", id:1041, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe290>
+
+<recipe291>
+ result:{type:"item", id:1162, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1153, amount:2}
+  {type:"item", id:1059, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe291>
+
+<recipe292>
+ result:{type:"item", id:1163, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1154, amount:2}
+  {type:"item", id:1064, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe292>
+
+<recipe293>
+ result:{type:"item", id:1164, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1155, amount:2}
+  {type:"item", id:1030, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe293>
+
+<recipe294>
+ result:{type:"item", id:1165, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1156, amount:2}
+  {type:"item", id:1007, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe294>
+
+<recipe295>
+ result:{type:"item", id:1166, amount:1}
+ <materials>
+  {type:"item", id:305, amount:15}
+  {type:"item", id:1157, amount:2}
+  {type:"item", id:1109, amount:3}
+  {type:"item", id:394, amount:5}
+ <materials>
+ category:#{vluecraftingcrystal}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe295>
+
+<recipe296>
+ result:{type:"weapon", id:305, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:395, amount:5}
+  {type:"item", id:396, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe296>
+
+<recipe297>
+ result:{type:"weapon", id:306, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:396, amount:5}
+  {type:"item", id:397, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe297>
+
+<recipe298>
+ result:{type:"weapon", id:307, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:397, amount:5}
+  {type:"item", id:398, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe298>
+
+<recipe299>
+ result:{type:"weapon", id:308, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:398, amount:5}
+  {type:"item", id:399, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe299>
+
+<recipe300>
+ result:{type:"weapon", id:309, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:399, amount:5}
+  {type:"item", id:400, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe300>
+
+<recipe301>
+ result:{type:"weapon", id:310, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:400, amount:5}
+  {type:"item", id:401, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe301>
+
+<recipe302>
+ result:{type:"weapon", id:311, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:401, amount:5}
+  {type:"item", id:402, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe302>
+
+<recipe303>
+ result:{type:"weapon", id:312, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:402, amount:5}
+  {type:"item", id:395, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe303>
+
+<recipe304>
+ result:{type:"weapon", id:313, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:398, amount:5}
+  {type:"item", id:400, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe304>
+
+<recipe305>
+ result:{type:"weapon", id:314, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:397, amount:5}
+  {type:"item", id:401, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe305>
+
+<recipe306>
+ result:{type:"weapon", id:315, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:395, amount:5}
+  {type:"item", id:399, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe306>
+
+<recipe307>
+ result:{type:"weapon", id:316, amount:1}
+ <materials>
+  {type:"item", id:301, amount:20}
+  {type:"item", id:396, amount:5}
+  {type:"item", id:402, amount:7}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe307>
+
+<recipe308>
+ result:{type:"weapon", id:317, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:305, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe308>
+
+<recipe309>
+ result:{type:"weapon", id:318, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:306, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe309>
+
+<recipe310>
+ result:{type:"weapon", id:319, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:307, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe310>
+
+<recipe311>
+ result:{type:"weapon", id:320, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:308, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe311>
+
+<recipe312>
+ result:{type:"weapon", id:321, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:309, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe312>
+
+<recipe313>
+ result:{type:"weapon", id:322, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:310, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe313>
+
+<recipe314>
+ result:{type:"weapon", id:323, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:311, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe314>
+
+<recipe315>
+ result:{type:"weapon", id:324, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:312, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe315>
+
+<recipe316>
+ result:{type:"weapon", id:325, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:313, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe316>
+
+<recipe317>
+ result:{type:"weapon", id:326, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:314, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe317>
+
+<recipe318>
+ result:{type:"weapon", id:327, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:315, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe318>
+
+<recipe319>
+ result:{type:"weapon", id:328, amount:1}
+ <materials>
+  {type:"item", id:295, amount:3}
+  {type:"weapon", id:316, amount:1}
+  {type:"item", id:302, amount:14}
+  {type:"item", id:391, amount:6}
+ <materials>
+ category:#{vluecraftingweapon}
+ goldCost:6500
+ success:100
+ xp:28
+ known:false
+<recipe319>
+
+<recipe320>
+ result:{type:"armor", id:439, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:395, amount:5}
+  {type:"item", id:396, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe320>
+
+<recipe321>
+ result:{type:"armor", id:440, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:396, amount:5}
+  {type:"item", id:398, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe321>
+
+<recipe322>
+ result:{type:"armor", id:441, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:398, amount:5}
+  {type:"item", id:399, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe322>
+
+<recipe323>
+ result:{type:"armor", id:442, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:399, amount:5}
+  {type:"item", id:400, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe323>
+
+<recipe324>
+ result:{type:"armor", id:443, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:400, amount:5}
+  {type:"item", id:401, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe324>
+
+<recipe325>
+ result:{type:"armor", id:444, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:401, amount:5}
+  {type:"item", id:402, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe325>
+
+<recipe326>
+ result:{type:"armor", id:445, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:396, amount:5}
+  {type:"item", id:398, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe326>
+
+<recipe327>
+ result:{type:"armor", id:446, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:395, amount:5}
+  {type:"item", id:399, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe327>
+
+<recipe328>
+ result:{type:"armor", id:447, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:397, amount:5}
+  {type:"item", id:402, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe328>
+
+<recipe329>
+ result:{type:"armor", id:448, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:395, amount:5}
+  {type:"item", id:400, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe329>
+
+<recipe330>
+ result:{type:"armor", id:449, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:401, amount:5}
+  {type:"item", id:398, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe330>
+
+<recipe331>
+ result:{type:"armor", id:450, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:396, amount:5}
+  {type:"item", id:402, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe331>
+
+<recipe332>
+ result:{type:"armor", id:451, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:398, amount:5}
+  {type:"item", id:401, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe332>
+
+<recipe333>
+ result:{type:"armor", id:452, amount:1}
+ <materials>
+  {type:"item", id:301, amount:8}
+  {type:"item", id:395, amount:5}
+  {type:"item", id:400, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:5000
+ success:100
+ xp:28
+ known:false
+<recipe333>
+
+<recipe334>
+ result:{type:"armor", id:453, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:439, amount:1}
+  {type:"item", id:392, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:7000
+ success:100
+ xp:28
+ known:false
+<recipe334>
+
+<recipe335>
+ result:{type:"armor", id:454, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:440, amount:1}
+  {type:"item", id:392, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:7000
+ success:100
+ xp:28
+ known:false
+<recipe335>
+
+<recipe336>
+ result:{type:"armor", id:455, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:441, amount:1}
+  {type:"item", id:392, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:7000
+ success:100
+ xp:28
+ known:false
+<recipe336>
+
+<recipe337>
+ result:{type:"armor", id:456, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:442, amount:1}
+  {type:"item", id:392, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:7000
+ success:100
+ xp:28
+ known:false
+<recipe337>
+
+<recipe338>
+ result:{type:"armor", id:457, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:443, amount:1}
+  {type:"item", id:392, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:7000
+ success:100
+ xp:28
+ known:false
+<recipe338>
+
+<recipe339>
+ result:{type:"armor", id:458, amount:1}
+ <materials>
+  {type:"item", id:296, amount:3}
+  {type:"item", id:302, amount:10}
+  {type:"armor", id:444, amount:1}
+  {type:"item", id:392, amount:5}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:7000
+ success:100
+ xp:28
+ known:false
+<recipe339>
+
+<recipe340>
+ result:{type:"armor", id:459, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:445, amount:1}
+  {type:"item", id:392, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe340>
+
+<recipe341>
+ result:{type:"armor", id:460, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:446, amount:1}
+  {type:"item", id:392, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe341>
+
+<recipe342>
+ result:{type:"armor", id:461, amount:1}
+ <materials>
+  {type:"item", id:297, amount:2}
+  {type:"armor", id:447, amount:1}
+  {type:"item", id:392, amount:3}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe342>
+
+<recipe343>
+ result:{type:"armor", id:462, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:448, amount:1}
+  {type:"item", id:393, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe343>
+
+<recipe344>
+ result:{type:"armor", id:463, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:449, amount:1}
+  {type:"item", id:393, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe344>
+
+<recipe345>
+ result:{type:"armor", id:464, amount:1}
+ <materials>
+  {type:"item", id:298, amount:2}
+  {type:"armor", id:450, amount:1}
+  {type:"item", id:393, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe345>
+
+<recipe346>
+ result:{type:"armor", id:465, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:451, amount:1}
+  {type:"item", id:393, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe346>
+
+<recipe347>
+ result:{type:"armor", id:466, amount:1}
+ <materials>
+  {type:"item", id:299, amount:1}
+  {type:"armor", id:452, amount:1}
+  {type:"item", id:393, amount:4}
+ <materials>
+ category:#{vluecraftingarmor}
+ goldCost:6000
+ success:100
+ xp:28
+ known:false
+<recipe347>
+
+
