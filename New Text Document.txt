@@ -1,2 +1,0 @@
-https://github.com/ryanpzo9/RecordOfValkadiaRelease/raw/main/Update0.0.6.zip
-(Get-FileHash Update0.0.2.zip -AlgorithmSHA256).Hash.ToLower()
