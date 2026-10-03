@@ -1,5 +1,6 @@
 {
-	"version":"0.0.9",
-	"url":"https://github.com/ryanpzo9/RecordOfValkadiaRelease/raw/main/Update0.0.9.zip",
-	"hash": "a9a4ffc9d1e7a83f52d8b0687dadc6a9b5670feba9f672519ffb4892f77826ca"
+	"version":"0.1.0",
+	"url":"https://github.com/ryanpzo9/RecordOfValkadiaRelease/raw/main/Update0.1.0.zip",
+	"hash": "a9a4ffc9d1e7a83f52d8b0687dadc6a9b5670feba9f672519ffb4892f77826ca",
+	"build": "26100301"
 }
